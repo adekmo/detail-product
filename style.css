@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+body
+{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container
+{
+	margin-top: 70px;
+}
+
+.carousel
+{
+	width: 400px;
+}
+
+.carousel img
+{
+	height: 500px;
+}
+
+.barangbaru
+{
+	background-color: green;
+	color: white;
+	width: 50px;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.detail h2
+{
+	color: #555;
+}
+
+.rate
+{
+	width: 100px;
+	height: 50px;
+	margin-top: -10px;
+}
+.text-rate
+{
+	font-size: 20px;
+	font-weight: 700;
+	margin-left: 10px;
+	color: #555;
+}
+
+.price
+{
+	color: #FE980f;
+	font-size: 28px;
+	font-weight: 700;
+	padding-top: 15px; 
+}
+
+.detail input
+{
+	width: 50px;
+	border: 1px solid #ccc;
+	font-weight: 700;
+	height: 33px;
+	text-align: center;
+}
+
+.cart
+{
+	background-color: #FE980f;
+	color: red;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 20px;
+	width: 120px;
+}
